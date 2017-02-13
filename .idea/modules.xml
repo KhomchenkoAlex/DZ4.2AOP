@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DZ4.2AOP.iml" filepath="$PROJECT_DIR$/.idea/modules/DZ4.2AOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DZ4.2AOP_main.iml" filepath="$PROJECT_DIR$/.idea/modules/DZ4.2AOP_main.iml" group="DZ4.2AOP" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DZ4.2AOP_test.iml" filepath="$PROJECT_DIR$/.idea/modules/DZ4.2AOP_test.iml" group="DZ4.2AOP" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,20 @@
+group 'DZ4.2AOP'
+version '1.0-SNAPSHOT'
+
+apply plugin: 'java'
+
+sourceCompatibility = 1.5
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testCompile("junit:junit:4.11",
+            "org.springframework:spring-test:4.3.6.RELEASE")
+    compile("org.springframework:spring-context:4.3.6.RELEASE",
+            "org.springframework:spring-core:4.3.6.RELEASE",
+            "org.springframework:spring-aop:4.3.6.RELEASE",
+            "org.aspectj:aspectjrt:1.6.11",
+            "org.aspectj:aspectjweaver:1.6.11")
+}
